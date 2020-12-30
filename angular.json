@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "gerenciamento-de-salas-front"
+  "defaultProject": "gerenciamento-de-salas-front",
+  "cli": {
+    "analytics": false
+  }
 }
